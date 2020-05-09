@@ -1,0 +1,16 @@
+{
+"companyName": "Demo",
+"productName": "WebSample1",
+"productVersion": "1",
+"dataUrl": "sample1.data.unityweb",
+"wasmCodeUrl": "sample1.wasm.code.unityweb",
+"wasmFrameworkUrl": "sample1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
